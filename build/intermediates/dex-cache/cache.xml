@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/delay/Desktop/Android/RestartPrj/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/delay/Desktop/Android/RestartPrj/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_2fd79e8595c27384a0cf00fd8c3457efcb223be9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/delay/Desktop/Android/RestartPrj/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/delay/Desktop/Android/RestartPrj/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_38efe254dff8fe55872d75e66837aeb342bb4119.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/delay/Desktop/Android/RestartPrj/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/delay/Desktop/Android/RestartPrj/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_428477182046def8bf456d40018fee9be55b4e01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/delay/Desktop/Android/RestartPrj/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/delay/Desktop/Android/RestartPrj/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.4.0_fd9a4ffb97427ed7d88ed8636d7d69af1eb6a9b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jerry/Documents/Library/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/delay/Desktop/Android/RestartPrj/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_6877acc380e93d66cb2472678583d6d7918ccc30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/delay/Desktop/Android/RestartPrj/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/delay/Desktop/Android/RestartPrj/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_8631ad149471477fd7634e14c79f4f5d978720e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/delay/Desktop/Android/RestartPrj/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/delay/Desktop/Android/RestartPrj/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_4a479d5e44d2f89dd071b543799dde46710d364b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/delay/Desktop/Android/RestartPrj/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/delay/Desktop/Android/RestartPrj/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_d1d79e9f06f0d5de6e00806cbcb31050020cfd76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/delay/Desktop/Android/RestartPrj/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/delay/Desktop/Android/RestartPrj/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.4.0_2cfb77b4f4c5b195640c1b79835017ef34c4fc15.jar" />
+    </item>
+
+</items>
