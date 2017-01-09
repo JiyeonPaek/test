@@ -23,7 +23,7 @@ public class Person implements Serializable
 
     public String getString()
     {
-        return String.format("이름 : %s\n 성별 : %s\n  소속 : %s", name, gender, organization);
+        return String.format("***이름 : %s\n 성별 : %s\n  소속 : %s", name, gender, organization);
     }
 
 
